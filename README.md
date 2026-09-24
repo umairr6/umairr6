@@ -177,16 +177,6 @@ To become a skilled Data Scientist and technology entrepreneur, develop innovati
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/umairr6/umairr6/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
