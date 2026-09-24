@@ -1,93 +1,15 @@
-# Hi, I'm Umair Farooq 👋
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Umairr.6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Umairr_6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fumair750@gmail.com) 
 
-### Future Data Scientist | Flutter Developer | IoT Enthusiast
-
-I'm a Data Science & Artificial Intelligence student passionate about building practical technology solutions that combine software, automation, and intelligent systems.
-
-My goal is to transform innovative ideas into real-world products and businesses.
-
-🎓 Pursuing Bachelor's in Data Science & Artificial Intelligence  
-💡 Interested in AI, Machine Learning, and Deep Learning  
-📱 Building SmartHomeX, my real-world smart home automation project  
-🚀 Aspiring Entrepreneur in Technology
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=umairr6&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=umairr6&theme=blueberry&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=umairr6&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=umairr6&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-
-### 🏠 SmartHomeX — Smart Home Automation
-
-SmartHomeX is a smart home automation platform designed to make homes smarter, more convenient, and easier to manage.
-
-It allows users to control home appliances such as lights, fans, and other connected electrical devices through a mobile application.
-
-The platform connects smart devices and home appliances, enabling users to:
-
-- Control appliances remotely through a mobile app.
-- Manage multiple rooms and connected smart devices.
-- Monitor device status and control appliances in real time.
-- Automate daily tasks using timers and schedules.
-- Create a more convenient, connected, and intelligent living experience.
-
-SmartHomeX is my ongoing real-world project, with the long-term vision of developing it into a technology business offering smart home automation solutions.
-
-🔗 [SmartHomeX V2](https://github.com/umairr6/Smarthomex-v2-)
-
-### 📱 SmartHomeX V1
-
-The first version of my smart home automation project, focused on controlling home appliances through a mobile application and connected hardware.
-
-🔗 [Explore SmartHomeX V1](https://github.com/umairr6/SmartHomeX)
-
----
-
-## 🛠️ Technical Skills
-
-**Programming Languages**
-- C
-- C++ (Object-Oriented Programming)
-- Python
-- PHP
-- SQL
-
-**Development & Tools**
-- Flutter & Dart
-- XAMPP
-- Git & GitHub
-- Visual Studio Code
-- Code::Blocks
-- Notepad
-
-**Areas of Interest**
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Science
-- Internet of Things (IoT)
-- Smart Home Automation
-
----
-
-## 📚 Currently Learning
-
-- Python Programming
-- Data Science and Data Analysis
-- Machine Learning and Deep Learning
-- Flutter Application Development
-- IoT Systems and Smart Device Integration
-
----
-
-## 🎯 My Goals
-
-To become a skilled Data Scientist and technology entrepreneur, develop innovative software and intelligent systems, and turn meaningful ideas into practical products and successful technology ventures.
-
----
-
-## 🤝 Let's Connect
-
-- GitHub: [@umairr6](https://github.com/umairr6)
-
-I'm always interested in learning, building innovative projects, and collaborating with people who share a passion for technology.
-
-⭐ Thanks for visiting my profile!
+# 💫 About Me:
+<br># Hi, I'm Umair Farooq 👋<br><br>### Future Data Scientist | Flutter Developer | IoT Enthusiast<br><br>I'm a Data Science & Artificial Intelligence student passionate about building practical technology solutions that combine software, automation, and intelligent systems.<br><br>My goal is to transform innovative ideas into real-world products and businesses.<br><br>🎓 Pursuing Bachelor's in Data Science & Artificial Intelligence  <br>💡 Interested in AI, Machine Learning, and Deep Learning  <br>📱 Building SmartHomeX, my real-world smart home automation project  <br>🚀 Aspiring Entrepreneur in Technology<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🏠 SmartHomeX — Smart Home Automation<br><br>SmartHomeX is a smart home automation platform designed to make homes smarter, more convenient, and easier to manage.<br><br>It allows users to control home appliances such as lights, fans, and other connected electrical devices through a mobile application.<br><br>The platform connects smart devices and home appliances, enabling users to:<br><br>- Control appliances remotely through a mobile app.<br>- Manage multiple rooms and connected smart devices.<br>- Monitor device status and control appliances in real time.<br>- Automate daily tasks using timers and schedules.<br>- Create a more convenient, connected, and intelligent living experience.<br><br>SmartHomeX is my ongoing real-world project, with the long-term vision of developing it into a technology business offering smart home automation solutions.<br><br>🔗 [SmartHomeX V2](https://github.com/umairr6/Smarthomex-v2-)<br><br>### 📱 SmartHomeX V1<br><br>The first version of my smart home automation project, focused on controlling home appliances through a mobile application and connected hardware.<br><br>🔗 [Explore SmartHomeX V1](https://github.com/umairr6/SmartHomeX)<br><br>---<br><br>## 🛠️ Technical Skills<br><br>**Programming Languages**<br>- C<br>- C++ (Object-Oriented Programming)<br>- Python<br>- PHP<br>- SQL<br><br>**Development & Tools**<br>- Flutter & Dart<br>- XAMPP<br>- Git & GitHub<br>- Visual Studio Code<br>- Code::Blocks<br>- Notepad<br><br>**Areas of Interest**<br>- Artificial Intelligence<br>- Machine Learning<br>- Deep Learning<br>- Data Science<br>- Internet of Things (IoT)<br>- Smart Home Automation<br><br>---<br><br>## 📚 Currently Learning<br><br>- Python Programming<br>- Data Science and Data Analysis<br>- Machine Learning and Deep Learning<br>- Flutter Application Development<br>- IoT Systems and Smart Device Integration<br><br>---<br><br>## 🎯 My Goals<br><br>To become a skilled Data Scientist and technology entrepreneur, develop innovative software and intelligent systems, and turn meaningful ideas into practical products and successful technology ventures.<br><br>---<br><br>## 🤝 Let's Connect<br><br>- GitHub: [@umairr6](https://github.com/umairr6)<br><br>I'm always interested in learning, building innovative projects, and collaborating with people who share a passion for technology.<br><br>⭐ Thanks for visiting my profile!<br>
