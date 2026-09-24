@@ -1,15 +1,218 @@
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Umairr.6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Umairr_6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fumair750@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=umairr6&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=umairr6&theme=blueberry&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=umairr6&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     UMAIR FAROOQ | README                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:14213D,100:00C9FF&height=230&section=header&text=Umair%20Farooq&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%7C%20Flutter%20%7C%20IoT&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Student;Flutter+Developer+in+Progress;IoT+%26+Smart+Home+Enthusiast;Building+SmartHomeX;Turning+Ideas+Into+Technology" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/umairr6">
+<img src="https://img.shields.io/badge/GitHub-umairr6-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://instagram.com/Umairr.6">
+<img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:fumair750@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=umairr6&label=PROFILE%20VIEWS&color=00C9FF&style=for-the-badge" alt="Profile views"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=umairr6&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
-<br># Hi, I'm Umair Farooq 👋<br><br>### Future Data Scientist | Flutter Developer | IoT Enthusiast<br><br>I'm a Data Science & Artificial Intelligence student passionate about building practical technology solutions that combine software, automation, and intelligent systems.<br><br>My goal is to transform innovative ideas into real-world products and businesses.<br><br>🎓 Pursuing Bachelor's in Data Science & Artificial Intelligence  <br>💡 Interested in AI, Machine Learning, and Deep Learning  <br>📱 Building SmartHomeX, my real-world smart home automation project  <br>🚀 Aspiring Entrepreneur in Technology<br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🏠 SmartHomeX — Smart Home Automation<br><br>SmartHomeX is a smart home automation platform designed to make homes smarter, more convenient, and easier to manage.<br><br>It allows users to control home appliances such as lights, fans, and other connected electrical devices through a mobile application.<br><br>The platform connects smart devices and home appliances, enabling users to:<br><br>- Control appliances remotely through a mobile app.<br>- Manage multiple rooms and connected smart devices.<br>- Monitor device status and control appliances in real time.<br>- Automate daily tasks using timers and schedules.<br>- Create a more convenient, connected, and intelligent living experience.<br><br>SmartHomeX is my ongoing real-world project, with the long-term vision of developing it into a technology business offering smart home automation solutions.<br><br>🔗 [SmartHomeX V2](https://github.com/umairr6/Smarthomex-v2-)<br><br>### 📱 SmartHomeX V1<br><br>The first version of my smart home automation project, focused on controlling home appliances through a mobile application and connected hardware.<br><br>🔗 [Explore SmartHomeX V1](https://github.com/umairr6/SmartHomeX)<br><br>---<br><br>## 🛠️ Technical Skills<br><br>**Programming Languages**<br>- C<br>- C++ (Object-Oriented Programming)<br>- Python<br>- PHP<br>- SQL<br><br>**Development & Tools**<br>- Flutter & Dart<br>- XAMPP<br>- Git & GitHub<br>- Visual Studio Code<br>- Code::Blocks<br>- Notepad<br><br>**Areas of Interest**<br>- Artificial Intelligence<br>- Machine Learning<br>- Deep Learning<br>- Data Science<br>- Internet of Things (IoT)<br>- Smart Home Automation<br><br>---<br><br>## 📚 Currently Learning<br><br>- Python Programming<br>- Data Science and Data Analysis<br>- Machine Learning and Deep Learning<br>- Flutter Application Development<br>- IoT Systems and Smart Device Integration<br><br>---<br><br>## 🎯 My Goals<br><br>To become a skilled Data Scientist and technology entrepreneur, develop innovative software and intelligent systems, and turn meaningful ideas into practical products and successful technology ventures.<br><br>---<br><br>## 🤝 Let's Connect<br><br>- GitHub: [@umairr6](https://github.com/umairr6)<br><br>I'm always interested in learning, building innovative projects, and collaborating with people who share a passion for technology.<br><br>⭐ Thanks for visiting my profile!<br>
+## 👨‍💻 About Me
+
+```python
+class UmairFarooq:
+
+    def __init__(self):
+        self.name = "Umair Farooq"
+        self.role = "Data Science & AI Student"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Flutter Development",
+            "Internet of Things",
+            "Smart Home Automation"
+        ]
+        self.current_project = "SmartHomeX"
+        self.goal = "Build technology that solves real-world problems"
+
+    def say_hi(self):
+        print("Thanks for visiting my GitHub profile!")
+
+me = UmairFarooq()
+me.say_hi()
+```
+
+🎓 Pursuing a Bachelor's in Data Science & Artificial Intelligence.
+
+💡 Exploring AI, Machine Learning, Data Science, and intelligent systems.
+
+📱 Developing **SmartHomeX**, a smart home automation platform.
+
+🔌 Working with Flutter, ESP32, IoT devices, and connected systems.
+
+🚀 Aspiring technology entrepreneur passionate about turning innovative ideas into real-world products.
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/umairr6/Smarthomex-v2-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=umairr6&repo=Smarthomex-v2-&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+<a href="https://github.com/umairr6/SmartHomeX">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=umairr6&repo=SmartHomeX&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+
+</div>
+
+### 🏠 SmartHomeX — Smart Home Automation
+
+A real-world IoT project focused on making homes smarter, connected, and easier to manage.
+
+**Key features and development goals:**
+
+- 📱 Mobile-based appliance control using Flutter.
+- 🔌 ESP32 hardware integration with a 4-channel relay.
+- 🌐 Internet-connected smart home control.
+- 🏡 Multi-room and multi-device management.
+- ⏰ Timers, schedules, and appliance automation.
+- 📡 Real-time device state monitoring.
+
+**Technology:** Flutter · Dart · ESP32 · MQTT · Supabase · IoT
+
+<a href="https://github.com/umairr6/Smarthomex-v2-">
+<img src="https://img.shields.io/badge/Explore-SmartHomeX_V2-00C9FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/umairr6/SmartHomeX">
+<img src="https://img.shields.io/badge/Explore-SmartHomeX_V1-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,php,dart,sql&theme=dark" />
+</p>
+
+### Development & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,firebase,supabase,html,css,git,github,vscode,arduino,linux&theme=dark" />
+</p>
+
+### Data Science & AI
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white"/>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Artificial Intelligence
+- Python programming
+- Data analysis
+- Machine Learning
+- Deep Learning fundamentals
+
+</td>
+<td width="50%">
+
+### 📱 Application & IoT
+- Flutter & Dart
+- Mobile application architecture
+- MQTT and ESP32 integration
+- Connected device systems
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=umairr6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=umairr6&theme=tokyonight&hide_border=true" />
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairr6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/umairr6/umairr6/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 My Vision
+
+> To build innovative technology that connects the physical and digital worlds, solve meaningful problems through intelligent systems, and transform ideas into impactful products and successful technology ventures.
+
+I believe in learning by building, experimenting with new technologies, and continuously improving my skills through real-world projects.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/umairr6">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://instagram.com/Umairr.6">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+<a href="https://x.com/Umairr_6">
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x"/>
+</a>
+<a href="mailto:fumair750@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:14213D,100:050816&height=120&section=footer" width="100%"/>
+
+</div>
+
+<!-- End of README -->
