@@ -339,5 +339,3 @@ I'm always interested in learning, building innovative projects, and collaborati
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:030712&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
