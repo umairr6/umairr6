@@ -77,6 +77,7 @@ AI, Machine Learning, and Deep Learning
 📱 **Current Project**
 
 SmartHomeX — Smart Home Automation
+https://umairr6.github.io/smarthomxwebpage/
 
 </td>
 <td width="50%">
